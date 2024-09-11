@@ -1,2 +1,2 @@
-# IN.ORBIT--NLW-
+# IN.ORBIT-NLW-
 Projeto NLW da Rocketseat
