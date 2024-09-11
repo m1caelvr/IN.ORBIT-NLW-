@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1726082548020,
+      "tag": "0000_quick_leper_queen",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1726082910768,
+      "tag": "0001_unknown_patch",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1726086025985,
+      "tag": "0002_quiet_kree",
+      "breakpoints": true
+    }
+  ]
+}
